@@ -436,6 +436,631 @@
           "series_number": "2/10",
           "variant": "",
           "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/25DeoraIII.jpeg"
+        },
+
+        {
+          "toy_number": "HYX47",
+          "col_number": "010",
+          "name": "Deora III",
+          "series_number": "2/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/EVDeora.jpg"
+        },
+        {
+          "toy_number": "HYW85",
+          "col_number": "033",
+          "name": "Fiat 500e",
+          "series_number": "3/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/2019Fiat500e.jpg"
+        },
+        {
+          "toy_number": "HYW15",
+          "col_number": "072",
+          "name": "Cupra e-Racer",
+          "series_number": "4/10",
+          "variant": "New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/Cuprae-Racer.jpg"
+        },
+        {
+          "toy_number": "HYX46",
+          "col_number": "072",
+          "name": "Cupra e-Racer",
+          "series_number": "4/10",
+          "variant": "2nd Color - New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/8/89/CupraLe%C3%B3n.jpg"
+        },
+        {
+          "toy_number": "HYX06",
+          "col_number": "060",
+          "name": "Supercharged",
+          "series_number": "5/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/2/25/HWRTSupercharged.jpg"
+        },
+        {
+          "toy_number": "HYX64",
+          "col_number": "060",
+          "name": "Supercharged",
+          "series_number": "5/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/3/31/Whitecharged.jpg"
+        },
+        {
+          "toy_number": "HYX30",
+          "col_number": "086",
+          "name": "Silverado EV RST",
+          "series_number": "6/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/ChevySilveradoEVRST.jpg"
+        },
+        {
+          "toy_number": "JBB64",
+          "col_number": "086",
+          "name": "Silverado EV RST",
+          "series_number": "6/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/9/91/ChevroletSilveradoEV.jpg"
+        },
+        {
+          "toy_number": "HYY28",
+          "col_number": "086",
+          "name": "Silverado EV RST",
+          "series_number": "6/10",
+          "variant": "3rd Color - Dollar Tree Exclusive",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/0/00/Dollartreesilverado.jpg"
+        },
+        {
+          "toy_number": "HYY99",
+          "col_number": "101",
+          "name": "Chevy Super Volt",
+          "series_number": "7/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/ChevyVolt.jpg"
+        },
+        {
+          "toy_number": "HYW22",
+          "col_number": "120",
+          "name": "Custom Kia EV6",
+          "series_number": "8/10",
+          "variant": "New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/KiaEV6.jpg"
+        },
+        {
+          "toy_number": "HYX63",
+          "col_number": "120",
+          "name": "Custom Kia EV6",
+          "series_number": "8/10",
+          "variant": "2nd Color - New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/HatsuneMiku.jpg"
+        },
+        {
+          "toy_number": "HYY86",
+          "col_number": "151",
+          "name": "Rodger Dodger 2.0",
+          "series_number": "9/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/b/be/EVDodger.jpg"
+        },
+        {
+          "toy_number": "JBB65",
+          "col_number": "151",
+          "name": "Rodger Dodger 2.0",
+          "series_number": "9/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/5/52/EVDodger2.0.jpg"
+        },
+        {
+          "toy_number": "JBC27",
+          "col_number": "168",
+          "name": "Nissan Leaf NISMO RC_02",
+          "series_number": "10/10",
+          "variant": "Treasure Hunt",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/LeafNISMO.jpg"
+        }
+      ]
+    },
+    {
+      "name": "HW Art Cars",
+      "description": "Colorful, art-inspired vehicles, ready to paint the town.",
+      "cars": [
+        {
+          "toy_number": "HYW14",
+          "col_number": "011",
+          "name": "Kei Swap",
+          "series_number": "1/10",
+          "variant": "New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/KeiSwap.jpg"
+        },
+        {
+          "toy_number": "HYX95",
+          "col_number": "011",
+          "name": "Kei Swap",
+          "series_number": "1/10",
+          "variant": "2nd Color - New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/0/00/PinkSwap.jpg"
+        },
+        {
+          "toy_number": "HYW68",
+          "col_number": "012",
+          "name": "Custom '53 Chevy",
+          "series_number": "2/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/C53C_HWTIKITIME_2025_cropped.jpg"
+        },
+        {
+          "toy_number": "HYY11",
+          "col_number": "012",
+          "name": "Custom '53 Chevy",
+          "series_number": "2/10",
+          "variant": "2nd Color - Walmart Exclusive",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/Custom_%2753_Chevy_2025_Zamac_2_Loose.jpg"
+        },
+        {
+          "toy_number": "HYY87",
+          "col_number": "035",
+          "name": "The Vanster",
+          "series_number": "3/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/6/66/1st_2025_The_Vanster.jpg"
+        },
+        {
+          "toy_number": "HYX65",
+          "col_number": "035",
+          "name": "The Vanster",
+          "series_number": "3/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/VansterRedArt2025.jpg"
+        },
+        {
+          "toy_number": "JJB80",
+          "col_number": "062",
+          "name": "Datsun 240Z",
+          "series_number": "4/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/8/89/SakuraDatsun.jpg"
+        },
+        {
+          "toy_number": "JBB66",
+          "col_number": "062",
+          "name": "Datsun 240Z",
+          "series_number": "4/10",
+          "variant": "3rd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/Sakura240Z.jpg"
+        },
+        {
+          "toy_number": "HYW88",
+          "col_number": "036",
+          "name": "DMC DeLorean",
+          "series_number": "5/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/%2780sDeLorean.jpg"
+        },
+        {
+          "toy_number": "HYX59",
+          "col_number": "036",
+          "name": "DMC DeLorean",
+          "series_number": "5/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/ArtsyDeLorean.jpg"
+        },
+        {
+          "toy_number": "HYX07",
+          "col_number": "061",
+          "name": "Hi-Roller II",
+          "series_number": "6/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/HYX07.jpg"
+        },
+        {
+          "toy_number": "JBC37",
+          "col_number": "061",
+          "name": "Hi-Roller II",
+          "series_number": "6/10",
+          "variant": "Super Treasure Hunt",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/6/64/Hi-Roller_II_STH_2025%22.jpg"
+        },
+        {
+          "toy_number": "HYX31",
+          "col_number": "087",
+          "name": "'70 Plymouth Superbird",
+          "series_number": "7/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/8/80/ArtSuperbird.jpg"
+        },
+        {
+          "toy_number": "HYX96",
+          "col_number": "087",
+          "name": "'70 Plymouth Superbird",
+          "series_number": "7/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/Artsybird.jpg"
+        },
+        {
+          "toy_number": "HYX32",
+          "col_number": "088",
+          "name": "Ain't Fare",
+          "series_number": "8/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/GrafittiFare.jpg"
+        },
+        {
+          "toy_number": "JBB67",
+          "col_number": "088",
+          "name": "Ain't Fare",
+          "series_number": "8/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/3/30/StillAin%27tFare.jpg"
+        },
+        {
+          "toy_number": "HYW30",
+          "col_number": "135",
+          "name": "Long Bloc",
+          "series_number": "9/10",
+          "variant": "New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/4/48/LongBloc.jpg"
+        },
+        {
+          "toy_number": "HYX97",
+          "col_number": "135",
+          "name": "Long Bloc",
+          "series_number": "9/10",
+          "variant": "2nd Color - New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/5/50/GreenBloc.jpg"
+        },
+        {
+          "toy_number": "JBB00",
+          "col_number": "169",
+          "name": "'67 Austin Mini Van",
+          "series_number": "10/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/8/83/AustinVan.jpg"
+        },
+        {
+          "toy_number": "JBB68",
+          "col_number": "169",
+          "name": "'67 Austin Mini Van",
+          "series_number": "10/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/0/00/1967AustinVan.jpg"
+        }
+      ]
+    },
+    {
+      "name": "X-Raycers",
+      "description": "Vehicles with clear bodies and wheels, plus they're super fast on track.",
+      "cars": [
+        {
+          "toy_number": "HYW69",
+          "col_number": "013",
+          "name": "Nerve Hammer",
+          "series_number": "1/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/0/08/1st_2025_Nerve_Hammer.jpg"
+        },
+        {
+          "toy_number": "HYX66",
+          "col_number": "013",
+          "name": "Nerve Hammer",
+          "series_number": "1/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/NerveHammer.jpg"
+        },
+        {
+          "toy_number": "HYW70",
+          "col_number": "014",
+          "name": "Draftnator",
+          "series_number": "2/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/6/68/1st_2025_Draftnator.jpg"
+        },
+        {
+          "toy_number": "HYY31",
+          "col_number": "014",
+          "name": "Draftnator",
+          "series_number": "2/10",
+          "variant": "2nd Color - Kroger Exclusive",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Draftnator-2025-Kroger.jpg"
+        },
+        {
+          "toy_number": "HYX67",
+          "col_number": "014",
+          "name": "Draftnator",
+          "series_number": "2/10",
+          "variant": "3rd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/DraftTruck.jpg"
+        },
+        {
+          "toy_number": "HYW89",
+          "col_number": "037",
+          "name": "Crescendo",
+          "series_number": "3/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/1st_2025_Crescendo.jpg"
+        },
+        {
+          "toy_number": "HYX85",
+          "col_number": "037",
+          "name": "Crescendo",
+          "series_number": "3/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/Greenscendo.jpg"
+        },
+        {
+          "toy_number": "HYX09",
+          "col_number": "063",
+          "name": "Monteracer",
+          "series_number": "4/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/1st_2025_Monteracer.jpg"
+        },
+        {
+          "toy_number": "HYX86",
+          "col_number": "063",
+          "name": "Monteracer",
+          "series_number": "4/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/7/73/Montegreen.jpg"
+        },
+        {
+          "toy_number": "HYX10",
+          "col_number": "064",
+          "name": "Arrow Dynamic",
+          "series_number": "5/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/1st_2025_Arrow_Dynamic.jpg"
+        },
+        {
+          "toy_number": "HYX98",
+          "col_number": "064",
+          "name": "Arrow Dynamic",
+          "series_number": "5/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/4/49/ArrowDynamic.jpg"
+        },
+        {
+          "toy_number": "HYX11",
+          "col_number": "065",
+          "name": "El Viento",
+          "series_number": "6/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/ElViento2025.jpeg"
+        },
+        {
+          "toy_number": "HYY06",
+          "col_number": "065",
+          "name": "El Viento",
+          "series_number": "6/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/YellowViento.jpg"
+        },
+        {
+          "toy_number": "HYX33",
+          "col_number": "089",
+          "name": "Stockar",
+          "series_number": "7/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/RacingStockar.jpg"
+        },
+        {
+          "toy_number": "HYY07",
+          "col_number": "089",
+          "name": "Stockar",
+          "series_number": "7/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/BlueStockar.jpg"
+        },
+        {
+          "toy_number": "HYY53",
+          "col_number": "109",
+          "name": "Power Rocket",
+          "series_number": "8/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/2/27/PowerRocket.jpg"
+        },
+        {
+          "toy_number": "JBB69",
+          "col_number": "109",
+          "name": "Power Rocket",
+          "series_number": "8/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/PinkRocket.jpg"
+        },
+        {
+          "toy_number": "JBC24",
+          "col_number": "110",
+          "name": "Rig Storm",
+          "series_number": "9/10",
+          "variant": "Treasure Hunt",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/6/65/2025_Rig_Storm.jpg"
+        },
+        {
+          "toy_number": "HYY75",
+          "col_number": "136",
+          "name": "Salt Shaker",
+          "series_number": "10/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/SaltShaker.jpg"
+        },
+        {
+          "toy_number": "JBB80",
+          "col_number": "136",
+          "name": "Salt Shaker",
+          "series_number": "10/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/7/77/Salt-Shaker-X-Raycers-Red-2025.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Track Aces",
+      "description": "These aces rule the track with their speed, power, and handling.",
+      "cars": [
+        {
+          "toy_number": "HYW10",
+          "col_number": "059",
+          "name": "Oracle Red Bull Racing",
+          "series_number": "1/5",
+          "variant": "New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/RedBullRacingRB20.jpg"
+        },
+        {
+          "toy_number": "JBC07",
+          "col_number": "059",
+          "name": "Williams Racing",
+          "series_number": "1/5",
+          "variant": "New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/0/01/WilliamsRacingFW46.jpg"
+        },
+        {
+          "toy_number": "HYX78",
+          "col_number": "059",
+          "name": "Mercedes-AMG Petronas Formula One Team",
+          "series_number": "1/5",
+          "variant": "New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/0/01/MercedesAMGW15.jpg"
+        },
+        {
+          "toy_number": "HYX35",
+          "col_number": "092",
+          "name": "Dune It Up",
+          "series_number": "2/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/6/62/DuneItUp.jpg"
+        },
+        {
+          "toy_number": "HYX87",
+          "col_number": "092",
+          "name": "Dune It Up",
+          "series_number": "2/5",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/RedItUp.jpg"
+        },
+        {
+          "toy_number": "JBB01",
+          "col_number": "170",
+          "name": "Madfast",
+          "series_number": "3/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/BenedictMadfast.jpg"
+        },
+        {
+          "toy_number": "HYY09",
+          "col_number": "170",
+          "name": "Madfast",
+          "series_number": "3/5",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Redfast.jpg"
+        },
+        {
+          "toy_number": "HYY56",
+          "col_number": "194",
+          "name": "Formula E Gen3",
+          "series_number": "4/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/8/84/McLarenFEGen3.jpg"
+        },
+        {
+          "toy_number": "JBC29",
+          "col_number": "202",
+          "name": "Chevroletor",
+          "series_number": "5/5",
+          "variant": "Treasure Hunt",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/1/15/2025_General_Motors_Chevroletor.jpg"
+        }
+      ]
+    },
+    {
+      "name": "HW Race Day",
+      "description": "These speed demons prove any day is a great day to hit the track!",
+      "cars": [
+        {
+          "toy_number": "HYX17",
+          "col_number": "074",
+          "name": "Porsche 911 GT3",
+          "series_number": "1/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/IsaiasPorsche.jpg"
+        },
+        {
+          "toy_number": "HYX19",
+          "col_number": "075",
+          "name": "Jaguar Mk1",
+          "series_number": "2/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/6/64/RacingJaguar.jpg"
+        },
+        {
+          "toy_number": "JBB58",
+          "col_number": "075",
+          "name": "Jaguar Mk1",
+          "series_number": "2/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/2/25/1955JaguarMk1.jpg"
+        },
+        {
+          "toy_number": "HYX41",
+          "col_number": "100",
+          "name": "Porsche 904 Carrera GTS",
+          "series_number": "3/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/Porsche904GTS.jpg"
+        },
+        {
+          "toy_number": "HYY03",
+          "col_number": "100",
+          "name": "Porsche 904 Carrera GTS",
+          "series_number": "3/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/7/79/1964Porsche904.jpg"
+        },
+        {
+          "toy_number": "JBC54",
+          "col_number": "100",
+          "name": "Porsche 904 Carrera GTS",
+          "series_number": "3/10",
+          "variant": "3rd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+        },
+        {
+          "toy_number": "HYY65",
+          "col_number": "124",
+          "name": "Futurismo",
+          "series_number": "4/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/Futurismo.jpg"
+        },
+        {
+          "toy_number": "HYX89",
+          "col_number": "124",
+          "name": "Futurismo",
+          "series_number": "4/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/Purplerismo.jpg"
+        },
+        {
+          "toy_number": "HYY66",
+          "col_number": "125",
+          "name": "2020 Koenigsegg Jesko",
+          "series_number": "5/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/IkeaJesko.jpg"
+        },
+        {
+          "toy_number": "JBB59",
+          "col_number": "125",
+          "name": "2020 Koenigsegg Jesko",
+          "series_number": "5/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/BattleJesko.jpg"
+        },
+        {
+          "toy_number": "HYW41",
+          "col_number": "142",
+          "name": "McLaren W1",
+          "series_number": "6/10",
+          "variant": "New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/McLarenW1.jpg"
         }
       ]
     }

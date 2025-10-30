@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom"; // Importa el hook useNavigate de React Router
 import {
   Plus,
   Search,
@@ -28,9 +29,7 @@ export default function HotWheelsCollector() {
   const [currentYear, setCurrentYear] = useState<number | null>(2025);
   const [currentCategory, setCurrentCategory] = useState<string | null>(null);
   const [editingCar, setEditingCar] = useState<any>(null);
-  const [filterMode, setFilterMode] = useState<
-    "all" | "acquired" | "notAcquired"
-  >("all");
+  const [filterMode, setFilterMode] = useState<"all" | "acquired" | "notAcquired">("all");
 
   const [newCar, setNewCar] = useState({
     name: "",
@@ -199,6 +198,16 @@ export default function HotWheelsCollector() {
   };
 
   // -----------------------
+  // Funcionalidad del botón "Volver atrás"
+  // -----------------------
+
+  const navigate = useNavigate();  // Hook para manejar la navegación
+
+  const handleGoBack = () => {
+    navigate(-1);  // Volver a la página anterior
+  };
+
+  // -----------------------
   // Render principal
   // -----------------------
 
@@ -222,6 +231,16 @@ export default function HotWheelsCollector() {
               </div>
             </div>
 
+            {/* Botón para volver atrás */}
+            <button
+              onClick={handleGoBack}  // Acción para regresar
+              className="bg-gray-400 text-blue-950 px-3 py-2 rounded-lg font-semibold flex items-center gap-2 hover:bg-gray-300 transition-colors text-sm"
+            >
+              <ChevronRight className="w-4 h-4" />
+              <span>Volver atrás</span>
+            </button>
+
+            {/* Botón de agregar */}
             <button
               onClick={() => {
                 setEditingCar(null);
