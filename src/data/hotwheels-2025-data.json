@@ -1,0 +1,444 @@
+{
+  "year": 2025,
+  "collection_name": "Hot Wheels 2025 Mainline",
+  "total_cars": 250,
+  "categories": [
+    {
+      "name": "HW Dream Garage",
+      "description": "The most epic Hot Wheels vehicles ever made - all together in one rockin' collection!",
+      "cars": [
+        {
+          "toy_number": "HYW66",
+          "col_number": "008",
+          "name": "Mazda Autozam",
+          "series_number": "1/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/2025_Mazda_Autozam_Red.jpg"
+        },
+        {
+          "toy_number": "HYY10",
+          "col_number": "008",
+          "name": "Mazda Autozam",
+          "series_number": "1/5",
+          "variant": "Zamac - Walmart Exclusive",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/7/78/Mazda_Autozam_2025_Zamac_-1_Loose.jpeg"
+        },
+        {
+          "toy_number": "HYX45",
+          "col_number": "008",
+          "name": "Mazda Autozam",
+          "series_number": "1/5",
+          "variant": "3rd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/RescueScrum.jpg"
+        },
+        {
+          "toy_number": "HYW18",
+          "col_number": "001",
+          "name": "Mazda MX-5 Miata",
+          "series_number": "2/5",
+          "variant": "New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/MazdaChimera.jpg"
+        },
+        {
+          "toy_number": "HYX57",
+          "col_number": "001",
+          "name": "Mazda MX-5 Miata",
+          "series_number": "2/5",
+          "variant": "2nd Color - New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/GreenChimera.jpg"
+        },
+        {
+          "toy_number": "HYY52",
+          "col_number": "107",
+          "name": "Aston Martin DB4GT High-Speed Edition",
+          "series_number": "3/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/AstonSaltFlatRacer.jpg"
+        },
+        {
+          "toy_number": "JBC39",
+          "col_number": "107",
+          "name": "Aston Martin DB4GT High-Speed Edition",
+          "series_number": "3/5",
+          "variant": "Super Treasure Hunt",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/8/85/Aston_Martin_DB4GT_High-Speed_Edition_STH_2025.jpg"
+        },
+        {
+          "toy_number": "HYW28",
+          "col_number": "108",
+          "name": "Slide-Burn",
+          "series_number": "4/5",
+          "variant": "New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/0/08/Slide-Burn.jpg"
+        },
+        {
+          "toy_number": "HYX84",
+          "col_number": "108",
+          "name": "Slide-Burn",
+          "series_number": "4/5",
+          "variant": "2nd Color - New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/Green-Burn.jpg"
+        },
+        {
+          "toy_number": "HYY74",
+          "col_number": "134",
+          "name": "'68 Corvette - Gas Monkey Garage",
+          "series_number": "5/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/BlownCorvette.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Batman",
+      "description": "Help Batman fight crime and protect Gotham City in these Batmobile inspired vehicles.",
+      "cars": [
+        {
+          "toy_number": "HYW60",
+          "col_number": "002",
+          "name": "Batman & Robin Batmobile",
+          "series_number": "1/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/20241205_175912.jpg"
+        },
+        {
+          "toy_number": "HYX61",
+          "col_number": "002",
+          "name": "Batman & Robin Batmobile",
+          "series_number": "1/5",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/BRBatmobile.jpg"
+        },
+        {
+          "toy_number": "HYX04",
+          "col_number": "054",
+          "name": "Batman: Arkham Asylum Batmobile",
+          "series_number": "2/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/2025_Arkham_Asylum_Batmobile.jpg"
+        },
+        {
+          "toy_number": "HYX81",
+          "col_number": "054",
+          "name": "Batman: Arkham Asylum Batmobile",
+          "series_number": "2/5",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/AABatmobile.jpg"
+        },
+        {
+          "toy_number": "HYX44",
+          "col_number": "103",
+          "name": "TV Series Batmobile",
+          "series_number": "3/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/a/ad/%2766Batmobile.jpg"
+        },
+        {
+          "toy_number": "HYY05",
+          "col_number": "103",
+          "name": "TV Series Batmobile",
+          "series_number": "3/5",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg"
+        },
+        {
+          "toy_number": "HYY81",
+          "col_number": "145",
+          "name": "Batmobile",
+          "series_number": "4/5",
+          "variant": "The Brave and the Bold",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/BATBatmobile.jpg"
+        },
+        {
+          "toy_number": "HYW57",
+          "col_number": "232",
+          "name": "1966 Bat Boat",
+          "series_number": "5/5",
+          "variant": "New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/9/91/Batboat.jpg"
+        }
+      ]
+    },
+    {
+      "name": "HW Screen Time",
+      "description": "Vehicles inspired by popular movies, TV shows, video games, and more.",
+      "cars": [
+        {
+          "toy_number": "HYW61",
+          "col_number": "003",
+          "name": "Monster High Ghoul Mobile",
+          "series_number": "1/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/2025_Monster_High_Ghoul_Mobile.jpg"
+        },
+        {
+          "toy_number": "HYX62",
+          "col_number": "003",
+          "name": "Monster High Ghoul Mobile",
+          "series_number": "1/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/BlackGhoul.jpg"
+        },
+        {
+          "toy_number": "HYY72",
+          "col_number": "004",
+          "name": "Nissan Skyline GT-R (BNR32)",
+          "series_number": "2/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/%2789NissanR32.jpg"
+        },
+        {
+          "toy_number": "HYW83",
+          "col_number": "030",
+          "name": "Standard Kart",
+          "series_number": "3/10",
+          "variant": "Mario Kart",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/StandardKart2022.jpg"
+        },
+        {
+          "toy_number": "HYW84",
+          "col_number": "031",
+          "name": "X-34 Landspeeder",
+          "series_number": "4/10",
+          "variant": "Star Wars",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Landspeeder.jpg"
+        },
+        {
+          "toy_number": "HYX27",
+          "col_number": "083",
+          "name": "K.I.T.T.",
+          "series_number": "5/10",
+          "variant": "Knight Rider",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/CustomKITT.jpg"
+        },
+        {
+          "toy_number": "HYW26",
+          "col_number": "104",
+          "name": "Optimus Prime",
+          "series_number": "6/10",
+          "variant": "New for 2025! - Transformers",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg"
+        },
+        {
+          "toy_number": "HYW62",
+          "col_number": "132",
+          "name": "Snoopy",
+          "series_number": "7/10",
+          "variant": "Peanuts",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/2/25/Snoopy25.jpg"
+        },
+        {
+          "toy_number": "HYY82",
+          "col_number": "146",
+          "name": "Minecart",
+          "series_number": "8/10",
+          "variant": "Minecraft",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/MinecraftMinecart.jpg"
+        },
+        {
+          "toy_number": "HYY83",
+          "col_number": "147",
+          "name": "Chevy El Camino",
+          "series_number": "9/10",
+          "variant": "New in Mainline - Fast & Furious",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/7/73/%2767ElCamino.jpg"
+        },
+        {
+          "toy_number": "HYY98",
+          "col_number": "166",
+          "name": "Disney Steamboat",
+          "series_number": "10/10",
+          "variant": "Disney",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/Disney%27sSteamboat.jpg"
+        }
+      ]
+    },
+    {
+      "name": "HW Designed By",
+      "description": "Your favorite Hot Wheels designers. Their favorite designs.",
+      "cars": [
+        {
+          "toy_number": "HYW63",
+          "col_number": "005",
+          "name": "Purple Passion",
+          "series_number": "1/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/LWPassion.jpg"
+        },
+        {
+          "toy_number": "HYX55",
+          "col_number": "005",
+          "name": "Purple Passion",
+          "series_number": "1/5",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/1/10/WhitePassion.jpg"
+        },
+        {
+          "toy_number": "JBC21",
+          "col_number": "032",
+          "name": "Fish'd & Chip'd",
+          "series_number": "2/5",
+          "variant": "Treasure Hunt",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/9/98/Fish%27dandChip%27d.jpg"
+        },
+        {
+          "toy_number": "HYY73",
+          "col_number": "084",
+          "name": "Gotta Go",
+          "series_number": "3/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/1st_2025_Gotta_Go.jpg"
+        },
+        {
+          "toy_number": "HYX94",
+          "col_number": "084",
+          "name": "Gotta Go",
+          "series_number": "3/5",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/4/47/GottaGo.jpg"
+        },
+        {
+          "toy_number": "HYY50",
+          "col_number": "105",
+          "name": "RD-06",
+          "series_number": "4/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/0/07/RD-06.jpg"
+        },
+        {
+          "toy_number": "HYX82",
+          "col_number": "105",
+          "name": "RD-06",
+          "series_number": "4/5",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/AcidTrip.jpg"
+        },
+        {
+          "toy_number": "HYX28",
+          "col_number": "133",
+          "name": "Monster Dairy Delivery",
+          "series_number": "5/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/MonsterMilkDelivery.jpg"
+        },
+        {
+          "toy_number": "HYX93",
+          "col_number": "133",
+          "name": "Monster Dairy Delivery",
+          "series_number": "5/5",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/IcyDelivery.jpg"
+        }
+      ]
+    },
+    {
+      "name": "HW Metro",
+      "description": "Taking the city by storm one cool ride at a time.",
+      "cars": [
+        {
+          "toy_number": "HYW64",
+          "col_number": "006",
+          "name": "Kowloon'd Hypervan",
+          "series_number": "1/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/2025_Kowloon%27d_Hypervan.jpg"
+        },
+        {
+          "toy_number": "HYX75",
+          "col_number": "006",
+          "name": "Kowloon'd Hypervan",
+          "series_number": "1/5",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/0/02/YellowPetVan.jpg"
+        },
+        {
+          "toy_number": "HYW65",
+          "col_number": "007",
+          "name": "Small Bloc",
+          "series_number": "2/5",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/3/37/1st_2025_Small_Bloc.jpg"
+        },
+        {
+          "toy_number": "HYX56",
+          "col_number": "007",
+          "name": "Small Bloc",
+          "series_number": "2/5",
+          "variant": "Taxi",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/TaxiBloc.jpg"
+        },
+        {
+          "toy_number": "JBC22",
+          "col_number": "057",
+          "name": "Mailed It!",
+          "series_number": "3/5",
+          "variant": "Treasure Hunt",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/LubetskyMailedIt.jpg"
+        },
+        {
+          "toy_number": "HYW21",
+          "col_number": "058",
+          "name": "Maserati Shamal",
+          "series_number": "4/5",
+          "variant": "New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/MaseratiShamal.jpg"
+        },
+        {
+          "toy_number": "HYX76",
+          "col_number": "058",
+          "name": "Maserati Shamal",
+          "series_number": "4/5",
+          "variant": "2nd Color - New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/4/42/1990Shamal.jpg"
+        },
+        {
+          "toy_number": "HYW35",
+          "col_number": "148",
+          "name": "Cone Shaker",
+          "series_number": "5/5",
+          "variant": "New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/4/47/ConeShaker.jpg"
+        },
+        {
+          "toy_number": "JBB62",
+          "col_number": "148",
+          "name": "Cone Shaker",
+          "series_number": "5/5",
+          "variant": "2nd Color - New for 2025!",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/NeonShaker.jpg"
+        }
+      ]
+    },
+    {
+      "name": "HW EV",
+      "description": "Fully charged and ready to roll!",
+      "cars": [
+        {
+          "toy_number": "HYW86",
+          "col_number": "009",
+          "name": "Tesla Model S Plaid",
+          "series_number": "1/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/HWPlaid.jpg"
+        },
+        {
+          "toy_number": "HYX58",
+          "col_number": "009",
+          "name": "Tesla Model S Plaid",
+          "series_number": "1/10",
+          "variant": "2nd Color",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/WhitePlaid.jpg"
+        },
+        {
+          "toy_number": "HYW67",
+          "col_number": "010",
+          "name": "Deora III",
+          "series_number": "2/10",
+          "variant": "",
+          "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/25DeoraIII.jpeg"
+        }
+      ]
+    }
+  ],
+  "note": "Datos extraídos parcialmente. Continuar agregando más categorías conforme se copie el código HTML restante."
+}
