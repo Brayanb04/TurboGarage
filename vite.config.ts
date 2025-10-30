@@ -3,6 +3,7 @@ import react from "@vitejs/plugin-react";
 import { VitePWA } from "vite-plugin-pwa";
 
 export default defineConfig({
+  base: "./", // 👈 ESTA LÍNEA ES CLAVE para que funcione en Netlify
   plugins: [
     react(),
     VitePWA({
@@ -15,7 +16,7 @@ export default defineConfig({
         background_color: "#0f172a",
         display: "standalone",
         orientation: "portrait",
-        start_url: "/",
+        start_url: "./", // 👈 cambia de "/" a "./" también
         icons: [
           {
             src: "/icon-192.png",
@@ -37,4 +38,7 @@ export default defineConfig({
       },
     }),
   ],
+  build: {
+    outDir: "dist", // 👈 asegúrate que la carpeta build es dist
+  },
 });
