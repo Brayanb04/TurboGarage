@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom"; // Importa el hook useNavigate de React Router
 import {
   Plus,
   Search,
@@ -16,7 +17,7 @@ import {
   X,
   Camera,
 } from "lucide-react";
-import hotwheelsData from "./data/hotwheels-2025-data.json";
+import hotwheelsData from "./data/hotwheels-2025-data.json"; 
 
 // 🔹 Cargar categorías desde el JSON
 const CATEGORIES_2025 = hotwheelsData.categories.map((c) => c.name);
@@ -28,9 +29,7 @@ export default function HotWheelsCollector() {
   const [currentYear, setCurrentYear] = useState<number | null>(2025);
   const [currentCategory, setCurrentCategory] = useState<string | null>(null);
   const [editingCar, setEditingCar] = useState<any>(null);
-  const [filterMode, setFilterMode] = useState<
-    "all" | "acquired" | "notAcquired"
-  >("all");
+  const [filterMode, setFilterMode] = useState<"all" | "acquired" | "notAcquired">("all");
 
   const [newCar, setNewCar] = useState({
     name: "",
@@ -199,6 +198,16 @@ export default function HotWheelsCollector() {
   };
 
   // -----------------------
+  // Funcionalidad del botón "Volver atrás"
+  // -----------------------
+
+  const navigate = useNavigate();  // Hook para manejar la navegación
+
+  const handleGoBack = () => {
+    navigate(-1);  // Volver a la página anterior
+  };
+
+  // -----------------------
   // Render principal
   // -----------------------
 
@@ -222,6 +231,16 @@ export default function HotWheelsCollector() {
               </div>
             </div>
 
+            {/* Botón para volver atrás */}
+            <button
+              onClick={handleGoBack}  // Acción para regresar
+              className="bg-gray-400 text-blue-950 px-3 py-2 rounded-lg font-semibold flex items-center gap-2 hover:bg-gray-300 transition-colors text-sm"
+            >
+              <ChevronRight className="w-4 h-4" />
+              <span>Volver atrás</span>
+            </button>
+
+            {/* Botón de agregar */}
             <button
               onClick={() => {
                 setEditingCar(null);
@@ -413,7 +432,7 @@ export default function HotWheelsCollector() {
         )}
       </div>
 
-      {/* MODAL AGREGAR / EDITAR */}
+      {/* MODAL AGREGAR y EDITAR */}
       {showAddModal && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4 overflow-y-auto">
           <div className="bg-blue-950 rounded-xl max-w-md w-full my-8 border border-gray-600">
