@@ -44,29 +44,61 @@ export default function HotWheelsCollector() {
   });
 
   // 🔹 Carga inicial desde el JSON o desde localStorage
-  useEffect(() => {
-    const loadedCars = hotwheelsData.categories.flatMap((category) =>
-      category.cars.map((car, index) => ({
-        id: `${category.name}-${index}`,
-        name: car.name,
-        year: hotwheelsData.year,
-        collection: category.name,
-        number: car.series_number,
-        variant: car.variant,
-        color: "",
-        favorite: false,
-        acquired: false,
-        image: car.image,
-      }))
-    );
+ useEffect(() => {
+  try {
+    // Verificar que el archivo JSON esté correctamente cargado
+    console.log('Cargando datos de Hot Wheels...', hotwheelsData);
 
-    const savedCars = localStorage.getItem("hotwheels-collection");
-    if (savedCars) {
-      setCars(JSON.parse(savedCars));
-    } else {
+    // Mapeando las categorías y carros desde el archivo JSON
+    const loadedCars = hotwheelsData.categories.flatMap((category) => {
+      // Verificar cada categoría antes de mapear
+      console.log('Cargando categoría:', category.name);
+      
+      const carsInCategory = category.cars.map((car, index) => {
+        // Verificar cada coche que se está mapeando
+        console.log(`Cargando coche ${car.name} en categoría ${category.name}`);
+
+        return {
+          id: `${category.name}-${index}`,
+          name: car.name,
+          year: hotwheelsData.year,
+          collection: category.name,
+          number: car.series_number,
+          variant: car.variant,
+          color: "", // Sin color por defecto
+          favorite: false,
+          acquired: false,
+          image: car.image,
+        };
+      });
+
+      return carsInCategory;
+    });
+
+    console.log('Datos de coches cargados:', loadedCars);
+
+    // Verificar si hay datos cargados correctamente antes de setear el estado
+    if (loadedCars.length > 0) {
       setCars(loadedCars);
+    } else {
+      console.error('No se encontraron coches para cargar.');
     }
-  }, []);
+    
+  } catch (error) {
+    console.error('Error al cargar los datos de Hot Wheels:', error);
+  }
+
+  // Verificar si hay algún error cargando desde localStorage
+  const savedCars = localStorage.getItem("hotwheels-collection");
+  if (savedCars) {
+    console.log('Cargando colección guardada desde localStorage.');
+    setCars(JSON.parse(savedCars));
+  } else {
+    console.log('No se encontró colección guardada, cargando desde el JSON.');
+  }
+
+}, []); // Solo se ejecuta una vez al inicio
+
 
   // 🔹 Guardar cambios en localStorage
   useEffect(() => {
@@ -197,15 +229,7 @@ export default function HotWheelsCollector() {
     categories: CATEGORIES_2025.length,
   };
 
-  // -----------------------
-  // Funcionalidad del botón "Volver atrás"
-  // -----------------------
-
-  const navigate = useNavigate();  // Hook para manejar la navegación
-
-  const handleGoBack = () => {
-    navigate(-1);  // Volver a la página anterior
-  };
+  
 
   // -----------------------
   // Render principal
@@ -231,14 +255,7 @@ export default function HotWheelsCollector() {
               </div>
             </div>
 
-            {/* Botón para volver atrás */}
-            <button
-              onClick={handleGoBack}  // Acción para regresar
-              className="bg-gray-400 text-blue-950 px-3 py-2 rounded-lg font-semibold flex items-center gap-2 hover:bg-gray-300 transition-colors text-sm"
-            >
-              <ChevronRight className="w-4 h-4" />
-              <span>Volver atrás</span>
-            </button>
+            
 
             {/* Botón de agregar */}
             <button
@@ -262,6 +279,7 @@ export default function HotWheelsCollector() {
               <Plus className="w-4 h-4" />
               <span>Agregar</span>
             </button>
+            
           </div>
 
           {/* Buscador */}
@@ -318,6 +336,7 @@ export default function HotWheelsCollector() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
             {getCategories().map((category) => {
               const count = getCategoryCarCount(category);
+              console.log(`Categoría: ${category}, Cantidad de carros: ${count}`);
               return (
                 <button
                   key={category}
